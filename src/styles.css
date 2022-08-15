@@ -1,0 +1,15 @@
+.navbar-container {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 2em;
+  color: red;
+}
+.content-container {
+}
+
+.image {
+  width: 100%;
+}
+.footer-container {
+  text-align: center;
+}
